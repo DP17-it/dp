@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,[1] Sky Uno
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://16.16.8.6:8888/proxy/mpd/manifest.m3u8?key_id=11156dbb3c6f079d250c22e9224d712e&key=1dbf1738a1bad52e38694e75ba5eb084&api_password=RRInfo2017&d=https%3A%2F%2Fg003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com%2Fv~a-0-0_e~1760658304_s~ef254340-cbb3-45fd-b88e-8780e3c711f5_u~ec29f37351f16e35c6497911d338883b074d2493cdaf5c932d1e00bb6c6999d2_l~52_x~e0872b2382d492d8162be588e109473456763c91f3ecb062812c027f8e8da725%2Fnowitlin1%2FContent%2FCMAF_CTR_S1%2FLive%2Fchannel%28skyuno%29%2Fmaster_2hr-aac.mpd%3Ft%3Dv2%26c3.ri%3D1b755fd7f6001d89_69bb946669-769bl_CVX06
+
