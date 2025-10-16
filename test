@@ -1,6 +1,59 @@
 #EXTM3U
-
-#EXTINF:-1,[1] Sky Uno
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://16.16.8.6:8888/proxy/mpd/manifest.m3u8?key_id=11156dbb3c6f079d250c22e9224d712e&key=1dbf1738a1bad52e38694e75ba5eb084&api_password=RRInfo2017&d=https%3A%2F%2Fg003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com%2Fv~a-0-0_e~1760658304_s~ef254340-cbb3-45fd-b88e-8780e3c711f5_u~ec29f37351f16e35c6497911d338883b074d2493cdaf5c932d1e00bb6c6999d2_l~52_x~e0872b2382d492d8162be588e109473456763c91f3ecb062812c027f8e8da725%2Fnowitlin1%2FContent%2FCMAF_CTR_S1%2FLive%2Fchannel%28skyuno%29%2Fmaster_2hr-aac.mpd%3Ft%3Dv2%26c3.ri%3D1b755fd7f6001d89_69bb946669-769bl_CVX06
-
+#EXTINF:-1 channelID="862" tvg-num="26" tvg-chno="26" tvg-name="8Sky Cinema Comedy Italy" tvg-id="862" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-comedy-hd-it.png" group-title="DaddyLive|P1P2",8Sky Cinema Comedy Italy
+http://16.16.8.18:5004/DaddyLive/watch/862
+#EXTINF:-1 channelID="868" tvg-num="27" tvg-chno="27" tvg-name="8Sky Cinema Suspense Italy" tvg-id="868" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-suspense-hd-it.png" group-title="DaddyLive|P1P2",8Sky Cinema Suspense Italy
+http://16.16.8.18:5004/DaddyLive/watch/868
+#EXTINF:-1 channelID="878" tvg-num="282" tvg-chno="282" tvg-name="EuroSport 1 Italy" tvg-id="878" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-hd-es.png" group-title="DaddyLive|P1P2P3",EuroSport 1 Italy
+http://16.16.8.18:5004/DaddyLive/watch/878
+#EXTINF:-1 channelID="879" tvg-num="288" tvg-chno="288" tvg-name="EuroSport 2 Italy" tvg-id="879" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-hd-es.png" group-title="DaddyLive|P1P2P3",EuroSport 2 Italy
+http://16.16.8.18:5004/DaddyLive/watch/879
+#EXTINF:-1 channelID="871" tvg-num="513" tvg-chno="513" tvg-name="Sky Calcio 1 (251) Italy" tvg-id="871" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2",Sky Calcio 1 (251) Italy
+http://16.16.8.18:5004/DaddyLive/watch/871
+#EXTINF:-1 channelID="872" tvg-num="514" tvg-chno="514" tvg-name="Sky Calcio 2 (252) Italy" tvg-id="872" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2",Sky Calcio 2 (252) Italy
+http://16.16.8.18:5004/DaddyLive/watch/872
+#EXTINF:-1 channelID="873" tvg-num="515" tvg-chno="515" tvg-name="Sky Calcio 3 (253) Italy" tvg-id="873" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2",Sky Calcio 3 (253) Italy
+http://16.16.8.18:5004/DaddyLive/watch/873
+#EXTINF:-1 channelID="874" tvg-num="516" tvg-chno="516" tvg-name="Sky Calcio 4 (254) Italy" tvg-id="874" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2",Sky Calcio 4 (254) Italy
+http://16.16.8.18:5004/DaddyLive/watch/874
+#EXTINF:-1 channelID="875" tvg-num="517" tvg-chno="517" tvg-name="Sky Calcio 5 (255) Italy" tvg-id="875" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2",Sky Calcio 5 (255) Italy
+http://16.16.8.18:5004/DaddyLive/watch/875
+#EXTINF:-1 channelID="876" tvg-num="518" tvg-chno="518" tvg-name="Sky Calcio 6 (256) Italy" tvg-id="876" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2P3",Sky Calcio 6 (256) Italy
+http://16.16.8.18:5004/DaddyLive/watch/876
+#EXTINF:-1 channelID="877" tvg-num="519" tvg-chno="519" tvg-name="Sky Calcio 7 (257) Italy" tvg-id="877" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2P3P4",Sky Calcio 7 (257) Italy
+http://16.16.8.18:5004/DaddyLive/watch/877
+#EXTINF:-1 channelID="861" tvg-num="520" tvg-chno="520" tvg-name="Sky Cinema Action Italy" tvg-id="861" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-action-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Action Italy
+http://16.16.8.18:5004/DaddyLive/watch/861
+#EXTINF:-1 channelID="859" tvg-num="523" tvg-chno="523" tvg-name="Sky Cinema Collection Italy" tvg-id="859" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-collection-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Collection Italy
+http://16.16.8.18:5004/DaddyLive/watch/859
+#EXTINF:-1 channelID="867" tvg-num="525" tvg-chno="525" tvg-name="Sky Cinema Drama Italy" tvg-id="867" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-drama-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Drama Italy
+http://16.16.8.18:5004/DaddyLive/watch/867
+#EXTINF:-1 channelID="866" tvg-num="527" tvg-chno="527" tvg-name="Sky Cinema Due +24 Italy" tvg-id="866" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-due-plus24-hd-it.png" group-title="DaddyLive|P1P2P3",Sky Cinema Due +24 Italy
+http://16.16.8.18:5004/DaddyLive/watch/866
+#EXTINF:-1 channelID="865" tvg-num="528" tvg-chno="528" tvg-name="Sky Cinema Family Italy" tvg-id="865" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-family-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Family Italy
+http://16.16.8.18:5004/DaddyLive/watch/865
+#EXTINF:-1 channelID="864" tvg-num="533" tvg-chno="533" tvg-name="Sky Cinema Romance Italy" tvg-id="864" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-romance-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Romance Italy
+http://16.16.8.18:5004/DaddyLive/watch/864
+#EXTINF:-1 channelID="863" tvg-num="537" tvg-chno="537" tvg-name="Sky Cinema Uno +24 Italy" tvg-id="863" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-uno-plus24-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Uno +24 Italy
+http://16.16.8.18:5004/DaddyLive/watch/863
+#EXTINF:-1 channelID="860" tvg-num="538" tvg-chno="538" tvg-name="Sky Cinema Uno Italy" tvg-id="860" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-cinema-uno-hd-it.png" group-title="DaddyLive|P1P2",Sky Cinema Uno Italy
+http://16.16.8.18:5004/DaddyLive/watch/860
+#EXTINF:-1 channelID="869" tvg-num="546" tvg-chno="546" tvg-name="Sky Sport 24 Italy" tvg-id="869" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-24-hd-it.png" group-title="DaddyLive|P1P2",Sky Sport 24 Italy
+http://16.16.8.18:5004/DaddyLive/watch/869
+#EXTINF:-1 channelID="462" tvg-num="554" tvg-chno="554" tvg-name="Sky Sport Arena Italy" tvg-id="462" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-arena-hd-it.png" group-title="DaddyLive|P1P2",Sky Sport Arena Italy
+http://16.16.8.18:5004/DaddyLive/watch/462
+#EXTINF:-1 channelID="870" tvg-num="557" tvg-chno="557" tvg-name="Sky Sport Calcio Italy" tvg-id="870" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-calcio-hd-it.png" group-title="DaddyLive|P1P2",Sky Sport Calcio Italy
+http://16.16.8.18:5004/DaddyLive/watch/870
+#EXTINF:-1 channelID="577" tvg-num="558" tvg-chno="558" tvg-name="Sky Sport F1 Italy" tvg-id="577" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-f1-hd-it.png" group-title="DaddyLive|P1P2P3",Sky Sport F1 Italy
+http://16.16.8.18:5004/DaddyLive/watch/577
+#EXTINF:-1 channelID="460" tvg-num="559" tvg-chno="559" tvg-name="Sky Sport Football Italy" tvg-id="460" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-football-hd-it.png" group-title="DaddyLive|P1P2",Sky Sport Football Italy
+http://16.16.8.18:5004/DaddyLive/watch/460
+#EXTINF:-1 channelID="575" tvg-num="561" tvg-chno="561" tvg-name="Sky Sport MotoGP Italy" tvg-id="575" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="DaddyLive|P1P2",Sky Sport MotoGP Italy
+http://16.16.8.18:5004/DaddyLive/watch/575
+#EXTINF:-1 channelID="576" tvg-num="563" tvg-chno="563" tvg-name="Sky Sport Tennis Italy" tvg-id="576" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-tennis-hd-it.png" group-title="DaddyLive|P1P2P3P4",Sky Sport Tennis Italy
+http://16.16.8.18:5004/DaddyLive/watch/576
+#EXTINF:-1 channelID="461" tvg-num="565" tvg-chno="565" tvg-name="Sky Sport UNO Italy" tvg-id="461" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-uno-hd-it.png" group-title="DaddyLive|P1P2",Sky Sport UNO Italy
+http://16.16.8.18:5004/DaddyLive/watch/461
+#EXTINF:-1 channelID="574" tvg-num="572" tvg-chno="572" tvg-name="Sky Sports Golf Italy" tvg-id="574" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png" group-title="DaddyLive|P1P2",Sky Sports Golf Italy
+http://16.16.8.18:5004/DaddyLive/watch/574
+#EXTINF:-1 channelID="881" tvg-num="580" tvg-chno="580" tvg-name="Sky UNO Italy" tvg-id="881" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-uno-hd-it.png" group-title="DaddyLive|P1P2P3P4",Sky UNO Italy
+http://16.16.8.18:5004/DaddyLive/watch/881
